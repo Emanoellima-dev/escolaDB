@@ -35,5 +35,8 @@ Neste repositório, você encontrará diversos desafios de análise de dados que
 ## Como Iniciar o Projeto localmente
 
 1. **Crie um banco de dados no seu sistema de gerenciamento de banco de dados (DBMS) preferido** (ex: MySQL, PostgreSQL, etc).
-2. **Execute os scripts SQL para criar as tabelas** com os dados do modelo.
+2. **Faça o download do arquivo [escola.sql](https://github.com/Emanoellima-dev/escolaDB/blob/main/escola.sql) que está neste repositório e Execute os scripts SQL para criar as tabelas** com os dados do modelo.
 3. **Realize as consultas SQL para responder aos desafios** que estão descritos acima.
+
+## Observações
+não estou aceitando contribuições ao projeto no momento. este projeto foi feito apenas com o intuito de aprimorar meus conhecimentos em SQL.
